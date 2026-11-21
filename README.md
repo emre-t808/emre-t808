@@ -1,4 +1,4 @@
-## People executive who builds.
+## People leader who builds.
 
 I lead People, Culture and Happiness at AppSamurai and Storyly in London, and I design and build the AI agents my function runs on.
 
@@ -17,8 +17,6 @@ About 3,500 contributions in the last twelve months (to November 2026), almost a
 
 ### Before this
 
-First Chief People and Culture Officer at Gram Games, later acquired by Zynga. Co-founder of a mobile games studio. Four years in executive search between San Francisco and Tokyo.
+First Chief People and Culture Officer at Gram Games, later acquired by Zynga. Co-founder of a mobile games studio. Four years in executive search between San Francisco and Tokyo. More on [LinkedIn](https://www.linkedin.com/in/emretuncbilek).
 
-It all starts with a question. **What do you want to build?**
-
-[LinkedIn](https://www.linkedin.com/in/emretuncbilek)
+**The question is what do you want to build? Let's build it together.**
