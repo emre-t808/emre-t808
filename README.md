@@ -1,4 +1,4 @@
-## I lead people and culture teams at scale-ups, and I research and build things for with this mission.
+## I lead people and culture teams at scale-ups, research and build things for with this mission.
 
 I lead People, Culture and Happiness at AppSamurai in London. I also design and build to make the most with the least. This includes custom job specific coding harnesses, bots, dasboards, agents and more.
 
