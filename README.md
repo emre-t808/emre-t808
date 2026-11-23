@@ -1,8 +1,8 @@
-## I lead people and culture teams at scale-ups, research and build things for with this mission.
+## I lead people and culture teams at scale-ups, I research and build things for this mission.
 
-I lead People, Culture and Happiness at AppSamurai in London. I also design and build to make the most with the least. This includes custom job specific coding harnesses, bots, dasboards, agents and more.
+I lead People, Culture and Happiness at AppSamurai in London. I also design and build to make the most with the least. This includes custom job specific coding harnesses, bots, dashboards, agents and more
 
-I’m most at home when things are changing and there’s no obvious way forward. The aim is to find our footing, try things out and learn what works. My mental toolset is first principles and curiousity about how other fields solve problems, and what we might borrow and adapt from them.
+I’m most at home when things are changing and there’s no obvious way forward. The aim is to find our footing, try things out and learn what works. My mental toolset is first principles and curiosity about how other fields solve problems, and what we might borrow and adapt from them.
 
 I care about helping scale-ups do more with what they have, without wearing people down. Increasingly, that means building software that AI agents can use, and working out where they can make life easier for people. 
 
